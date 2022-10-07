@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Vaughan Fitness",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
